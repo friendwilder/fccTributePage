@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+@media (max-width: 1366px) {
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  #main {
+    margin: 0;
+  }
+  
+}
+
